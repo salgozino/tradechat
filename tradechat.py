@@ -134,5 +134,4 @@ def logout():
 # main routine
 if __name__ == '__main__':
 	init_db()	#Crea una nueva base de datos
-	#app.run(host='163.10.12.75', port='5000')
-	app.run(host='127.0.0.1', port='5000')
+	app.run(host='0.0.00', port='5000')
